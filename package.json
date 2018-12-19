@@ -2,7 +2,6 @@
   "name": "chenbaby-translate",
   "version": "1.0.1",
   "description": "Both English and Chinese translation",
-  "main": "translate.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
