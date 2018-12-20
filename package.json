@@ -1,6 +1,6 @@
 {
   "name": "chenbaby-translate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Both English and Chinese translation",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
